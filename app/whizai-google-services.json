@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764678651412",
+    "project_id": "whizai-e4d94",
+    "storage_bucket": "whizai-e4d94.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764678651412:android:4d475235de08190c1af101",
+        "android_client_info": {
+          "package_name": "com.example.whizai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsyrVqiEgW7tPOVGId8Ah5J0NS9-9zEvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
